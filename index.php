@@ -1,6 +1,7 @@
 <html>
 <head>
-    <tittle>Hola</tittle>
+    <title>Hola</title>
+
 </head>
 <body>
     <h1>Fecha: <?=date("d.m.y")?></h1>
@@ -13,3 +14,4 @@
     ?>
 </body>
 </html>
+
